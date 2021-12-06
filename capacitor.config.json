@@ -1,0 +1,6 @@
+{
+	"appId": "com.devdactic.analytics",
+	"appName": "devdacticAnalytics",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
