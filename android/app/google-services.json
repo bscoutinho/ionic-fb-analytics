@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731196437390",
+    "project_id": "ionicpoc-acda5",
+    "storage_bucket": "ionicpoc-acda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731196437390:android:1f08dba34e5b84f5ce6adf",
+        "android_client_info": {
+          "package_name": "com.devdactic.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731196437390-7n41525jpvaratvuucqlsuaah1ce7b8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChkXo8Vfw_9Oe-1GtpHxowTFNqkiUInxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731196437390-7n41525jpvaratvuucqlsuaah1ce7b8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
